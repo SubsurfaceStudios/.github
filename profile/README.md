@@ -17,7 +17,7 @@ We're a small group of indie game developers coming together to work on free pro
 ## Main project:
 
 ### Compensation VR
-Compensation VR is a VR social multiplayer game, in the vein of Rec Room, VR Chat, Neos VR, and others.  
+Compensation VR is a VR social multiplayer game, in the vein of Rec Room, VRChat, Neos VR, and others.  
 Built from the ground up with the primary goal of letting people meet friends, old and new, why not give it a try?  
   
 To learn more, look [here.](https://compensationvr.tk)  
