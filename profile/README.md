@@ -26,5 +26,4 @@ To see our latest updates, look [here.](https://compensationvr.tk/patch-notes)
   
 Developers:  
 If you're interested in developing an external application that uses our servers, you can use our API!  
-You can find full documentation for almost everything [here!](https://documenter.getpostman.com/view/19193793/UVXkoaij)  
-If you'd like to contribute, our API is open source! You can contribute, read the source code, and even host your own instance using [this repository.](https://github.com/bubby932/VigorXRAPI)
+If you'd like to contribute, our API is open source! You can contribute, read the source code, and even host your own instance using [this repository.](https://github.com/SubsurfaceStudios/CompensationAPI)
