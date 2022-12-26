@@ -22,7 +22,7 @@ Built from the ground up with the primary goal of letting people meet friends, o
   
 To learn more, look [here.](https://compensationvr.tk)  
 To download Compensation VR, look [here.](https://compensationvr.tk/download)  
-To see our latest updates, look [here.](https://compensationvr.tk/patch-notes)  
+To see our latest updates, look [here.](https://compensationvr.tk/updates)  
   
 Developers:  
 If you're interested in developing an external application that uses our servers, you can use our API!  
