@@ -14,15 +14,20 @@
 ### Welcome to Subsurface Studios!
 We're a small group of indie game developers coming together to work on free projects for everyone to enjoy.  
   
-## Main project:
+# Projects:
 
-### Compensation VR
-Compensation VR is a VR social multiplayer game, in the vein of Rec Room, VR Chat, Neos VR, and others.  
+### Top Secret
+A single one of our developers is currently working on a top-secret project, releasing sometime mid-2023.  
+Stick around for more information!  
+
+### Compensation Social
+Compensation Social is a VR social multiplayer game, in the vein of Rec Room, VR Chat, Neos VR, and others.  
 Built from the ground up with the primary goal of letting people meet friends, old and new, why not give it a try?  
+Do note, this project is no longer recieving updates.
   
 To learn more, look [here.](https://compensationvr.tk)  
 To download Compensation VR, look [here.](https://compensationvr.tk/download)  
-To see our latest updates, look [here.](https://compensationvr.tk/updates)  
+To see our previous updates, look [here.](https://compensationvr.tk/updates)  
   
 Developers:  
 If you're interested in developing an external application that uses our servers, you can use our API!  
