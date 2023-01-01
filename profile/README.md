@@ -21,7 +21,7 @@ A single one of our developers is currently working on a top-secret project, rel
 Stick around for more information!  
 
 ### Compensation Social
-Compensation Social is a VR social multiplayer game, in the vein of Rec Room, VR Chat, Neos VR, and others.  
+Compensation Social is a VR social multiplayer game, in the vein of Rec Room, VRChat, Neos VR, and others.  
 Built from the ground up with the primary goal of letting people meet friends, old and new, why not give it a try?  
 Do note, this project is no longer recieving updates.
   
