@@ -12,7 +12,7 @@
 -->
 
 ### Welcome to Subsurface Studios!
-We're a small group of indie game developers coming together to work on free projects for everyone to enjoy.  
+We're a small group of indie game developers coming together to work on high-quality projects for everyone to enjoy.  
   
 # Projects:
 
