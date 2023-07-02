@@ -1,29 +1,19 @@
 ## Subsurface Studios
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-
 ### Welcome to Subsurface Studios!
 We're a small group of indie game developers coming together to work on high-quality projects for everyone to enjoy.  
   
 # Projects:
 
-### Top Secret
-A single one of our developers is currently working on a top-secret project, releasing sometime mid-2023.  
-Stick around for more information!  
+### Relay
+Play as an engineer at the futuristic Leviathan Corporation during a mysterious incident!
+Find out more on [the webpage](https://subsurface.az-raven.com/relay)!
 
 ### Compensation Social
-Compensation Social is a VR social multiplayer game, in the vein of Rec Room, VRChat, Neos VR, and others.  
+Compensation Social was a VR social multiplayer game, in the vein of Rec Room, VRChat, Neos VR, and others.  
 Built from the ground up with the primary goal of letting people meet friends, old and new, why not give it a try?  
-Do note, this project is no longer recieving updates.
+Do note, this project is no longer recieving updates. The only way to play is using dedicated servers, hosted by our
+community.
   
 To learn more, look [here.](https://compensationvr.tk)  
 To download Compensation VR, look [here.](https://compensationvr.tk/download)  
