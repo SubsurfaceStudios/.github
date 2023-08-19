@@ -1,7 +1,7 @@
 ## Subsurface Studios
 
 ### Welcome to Subsurface Studios!
-We're a small group of indie game developers coming together to work on high-quality projects for everyone to enjoy.  
+We're a small group of indie developers coming together to work on high-quality projects for everyone to enjoy.  
   
 # Projects:
 
@@ -20,5 +20,4 @@ To download Compensation VR, look [here.](https://compensationvr.tk/download)
 To see our previous updates, look [here.](https://compensationvr.tk/updates)  
   
 Developers:  
-If you're interested in developing an external application that uses our servers, you can use our API!  
 If you'd like to contribute, our API is open source! You can contribute, read the source code, and even host your own instance using [this repository.](https://github.com/SubsurfaceStudios/CompensationAPI)
